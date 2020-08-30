@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5298f395-9483-40b0-9ec0-f8eb3d9d14d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="5bb7aef9-2565-48ea-a833-9f2463d9c580" />
+  <component name="ProjectId" id="1T3VDUYfmNrqDTR7o5cApbwy5eI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nmt_chatbot" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5298f395-9483-40b0-9ec0-f8eb3d9d14d5" name="Default Changelist" comment="" />
+      <created>1572688646749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572688646749</updated>
+      <workItem from="1572688647843" duration="1555000" />
+      <workItem from="1572786209946" duration="875000" />
+      <workItem from="1572859109734" duration="1478000" />
+      <workItem from="1572931753670" duration="3000" />
+      <workItem from="1580406021972" duration="127000" />
+      <workItem from="1583845678085" duration="21000" />
+      <workItem from="1584019059901" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="277" width="630" height="565" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580406062662">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state x="640" y="277" width="630" height="565" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.42.1920.1038@0.42.1920.1038" timestamp="1580406062662" />
+    <state x="690" y="262" width="530" height="596" key="FileChooserDialogImpl" timestamp="1583845697012">
+      <screen x="0" y="42" width="1920" height="1038" />
+    </state>
+    <state x="690" y="262" width="530" height="596" key="FileChooserDialogImpl/0.42.1920.1038@0.42.1920.1038" timestamp="1583845697012" />
+  </component>
+</project>

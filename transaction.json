@@ -1,0 +1,10 @@
+{"tid": 1, "pid": 1, "uid": 2, "amount": 300, "product": "apple"}
+{"tid": 2, "pid": 2, "uid": 3, "amount": 300, "product": "mango"}
+{"tid": 3, "pid": 1, "uid": 1, "amount": 300, "product": "apple"}
+{"tid": 4, "pid": 3, "uid": 4, "amount": 300, "product": "banana"}
+{"tid": 5, "pid": 4, "uid": 5, "amount": 300, "product": "orange"}
+{"tid": 6, "pid": 2, "uid": 2, "amount": 300, "product": "mango"}
+{"tid": 7, "pid": 3, "uid": 1, "amount": 300, "product": "banana"}
+{"tid": 8, "pid": 1, "uid": 3, "amount": 300, "product": "apple"}
+{"tid": 9, "pid": 2, "uid": 4, "amount": 300, "product": "mango"}
+{"tid": 10, "pid": 4, "uid": 5, "amount": 300, "product": "orange"}
